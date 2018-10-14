@@ -1,2 +1,2 @@
-# curso_git
-Practica del curso Git
+# curso Automatizacion de Pruebas
+Practica de Cucumber
